@@ -130,7 +130,49 @@ main{
     width: 160px;
     height: 64px;
 }
-
+/* About Me section  */
+.about-me{
+    margin-top: 130px;
+    
+}
+.about-me h1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+.Myinfo{
+    margin-top: 50px;
+    background-color: #f6a98a;
+    border-radius: 10px;
+}
+.my-img img{
+    width: 400px;
+    border-radius: 10px;
+}
+.my-description{
+    padding-left: 30px;
+    margin-right: 110px;
+    height: 400px;
+    
+}
+.my-description p{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-size: 16px;
+    color: #343333;
+    font-weight: 400;
+    
+}
+.my-description button{
+    border-radius: 100px;
+    height: 50px;
+    width: 120px;
+}
+.Myinfo{
+    display: flex;
+    align-items: center;
+    
+}
 /* footer section  */
 footer{
     background-color: #000000;
