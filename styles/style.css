@@ -79,3 +79,63 @@ main{
 .body-section1 ul li{
     margin-bottom: 5px;
 }
+
+/* My Plans sections(body section-2)  */
+.body-section2{
+    margin-top: 130px;
+}
+.my-plan{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+.courses{
+    text-align: center;
+    display: flex;
+    justify-content:space-around;
+    margin-top: 50px;
+}
+
+.courses p{
+    color: #737272;
+    font-size: 20px;
+    margin-top: 14px;
+}
+
+/* Positive Mindset section(body-section-3) */
+.body-section3{
+    margin-top: 124px;
+    
+}
+.positive-mind{
+    /* border: 0.1px solid grey; */
+    /* width: 1140px; */
+    height: 300px;
+    border-radius: 8px;
+    background: linear-gradient(to left, rgba(255,255,255,0) 20%, rgb(255, 124, 92)), url(/images/watch.png);
+    display: flex;
+    align-items: center;
+}
+.positive-title{
+    margin: 59px 500px 59px 64px;
+    font-size: 25px;
+}
+.positive-title h1{
+    color: white;
+    margin-bottom: 24px;
+}
+.positive-title button{
+    background-color: white;
+    color: #F15B22;
+    width: 160px;
+    height: 64px;
+}
+
+/* footer section  */
+footer{
+    background-color: black;
+    width: 1600px;
+    height: 577px;
+    margin-top: 130px;
+    color: white;
+}
