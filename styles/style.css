@@ -36,3 +36,46 @@ button{
     font-weight: 600;
     font-size: 20px;
 }
+
+/* Body section-1 */
+main{
+    margin: 130px 280px 0 206px;
+}
+.body-section1{
+    display: flex;
+    align-items: center;
+}
+.body-section1 img{
+    background-image: url(/images/personBackground.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: 2px 120px;
+}
+
+.body-text{
+    margin-left: 87px;
+}
+.body-section1 h1{
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+.body-section1 p{
+    margin-bottom: 32px;
+    font-size: 16px;
+    color: #343333;
+    font-weight: 400;
+}
+.body-section1 ul{
+    margin-bottom: 32px;
+    font-size: 16px;
+    color: #343333;
+    font-weight: 400;
+    list-style: none;
+    list-style-image: url(/images/icons/check-mark.png);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+.body-section1 ul li{
+    margin-bottom: 5px;
+}
