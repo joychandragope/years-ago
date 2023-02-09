@@ -6,7 +6,7 @@
 /* Banner Heading Section */
 header {
   height: 710px;
-  background-image: url("/images/banner/banner2.png");
+  background-image: url("../images/banner/banner2.png");
   border: 0.5px solid gray;
 }
 .heading-title {
@@ -46,7 +46,7 @@ main{
     align-items: center;
 }
 .body-section1 img{
-    background-image: url(/images/personBackground.png);
+    background-image: url(../images/personBackground.png);
     background-repeat: no-repeat;
     background-size:contain;
     background-position: 2px 120px;
@@ -72,7 +72,7 @@ main{
     color: #343333;
     font-weight: 400;
     list-style: none;
-    list-style-image: url(/images/icons/check-mark.png);
+    list-style-image: url(../images/icons/check-mark.png);
     background-repeat: no-repeat;
     background-position: 0 0;
 }
@@ -112,7 +112,7 @@ main{
     /* width: 1140px; */
     height: 300px;
     border-radius: 8px;
-    background: linear-gradient(to left, rgba(255,255,255,0) 20%, rgb(255, 124, 92)), url(/images/watch.png);
+    background: linear-gradient(to left, rgba(255,255,255,0) 20%, rgb(255, 124, 92)), url(../images/watch.png);
     display: flex;
     align-items: center;
 }
