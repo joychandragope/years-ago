@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  font-family: "Work Sans";
+}
+
+/* Banner Heading Section */
+header {
+  height: 710px;
+  background-image: url("/images/banner/banner2.png");
+  border: 0.5px solid gray;
+}
+.heading-title {
+  text-align: right;
+  margin: 216px 236px 0 876px;
+  
+}
+header h1 {
+  font-weight: 700;
+  font-size: 50px;
+  margin-bottom: 24px;
+}
+header p{
+    margin-bottom: 32px;
+    font-size: 16px;
+    color: #343333;
+    font-weight: 400;
+}
+
+button{
+    width: 160px;
+    height: 64px;
+    background: #F15B22;
+    border-radius: 5px;
+    border: none;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+}
